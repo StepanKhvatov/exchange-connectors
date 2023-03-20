@@ -1,0 +1,25 @@
+{
+  "name": "exchange-connectors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StepanKhvatov/exchange-connectors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StepanKhvatov/exchange-connectors/issues"
+  },
+  "homepage": "https://github.com/StepanKhvatov/exchange-connectors#readme",
+  "dependencies": {
+    "qs": "^6.11.1"
+  },
+  "devDependencies": {
+    "@types/qs": "^6.9.7"
+  }
+}
